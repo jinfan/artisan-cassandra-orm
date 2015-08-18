@@ -30,7 +30,7 @@
   "dependencies": {
     "array-diff": "0.0.1",
     "bluebird": "~2.3.11",
-    "cassandra-driver": "^1.0.2",
+    "cassandra-driver": "^2.1.2",
     "deep-equal": "^0.2.1",
     "lodash": "~2.4.1"
   }
